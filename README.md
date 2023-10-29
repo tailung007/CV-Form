@@ -1,2 +1,2 @@
 # CV-Form
-making CV using HTML and CSS
+making Registration Form using HTML and CSS
